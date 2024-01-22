@@ -3,8 +3,8 @@
   "name": "Bobo",
   "greetingText": "I really like that name btw, bobo, sounds like you!",
   "text1": "It's not your birthday yet by a long shot !!! :D",
-  "textInChatBox": "But Happy birthday to you!!, ",
-  "sendButtonLabel": "I wanted to be the first to say it",
+  "textInChatBox": "But Happy birthday to you!!,I wanted to be the first to say it ",
+  "sendButtonLabel": ":)",
   "text2": "But....",
   "text3": "Ill say it again next week",
   "text4": "I realised, I wanted to do something",
@@ -14,7 +14,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday pre birthday!",
+  "wishHeading": "Happy Birthday pre-birthday!",
   "outroText": "Okay, now thats enough cheesiness for a monday morning ama? ",
   "outroSmiley": ":)"
 }
